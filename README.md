@@ -1,5 +1,6 @@
 # SuccessGrammaticDictionary
 Success Grammatic Dictionary 📖✨
+
 A comprehensive Success Grammatic Dictionary containing 50000 words with their meanings, built to enhance vocabulary and improve language skills. This project integrates C++ code, a frontend, and a synced keyboard for seamless interaction.
 
 🔥 Features
